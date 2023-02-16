@@ -7,5 +7,8 @@
   - Data Structures and Algorithms
 - 👨‍💻 Languages/Frameworks I'm comfortable with:
   - MERN Stack (MongoDB/Express.js/React.js/Node.js)
+  - JavaScript
   - Python
   - SQL
+  - Java
+  - C
